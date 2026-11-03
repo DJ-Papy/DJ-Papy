@@ -1,4 +1,4 @@
-# Florian Privat · Game Data Analyst
+# Florian Privat · Data Analyst
 
 I turn player data into decisions: retention, A/B tests, monetisation and tracking quality.
 
